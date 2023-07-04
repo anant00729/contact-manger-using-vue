@@ -1,0 +1,91 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "company": "ABC Company",
+      "email": "john.doe@example.com",
+      "title": "Software Engineer",
+      "mobile": "+1 123-456-7890",
+      "photo": "https://imgv3.fotor.com/images/gallery/Realistic-Male-Profile-Picture.jpg",
+      "groupId": 1
+    },
+    {
+      "id": 2,
+      "name": "Anant Smith",
+      "company": "XYZ Corporation",
+      "email": "jane.smith@example.com",
+      "title": "Product Manager",
+      "mobile": "+1 987-654-3210",
+      "photo": "https://imgv3.fotor.com/images/gallery/3D-Female-Profile-Picture.jpg",
+      "groupId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "company": "123 Industries",
+      "email": "bob.johnson@example.com",
+      "title": "Sales Representative",
+      "mobile": "+1 555-123-4567",
+      "photo": "https://imgv3.fotor.com/images/gallery/Realistic-Female-Profile-Picture.jpg",
+      "groupId": 2
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "company": "Acme Corp",
+      "email": "alice.williams@example.com",
+      "title": "Marketing Coordinator",
+      "mobile": "+1 999-888-7777",
+      "photo": "https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+      "groupId": 3
+    },
+    {
+      "name": "Anant Sunilam Awasthy",
+      "photo": "https://imgv3.fotor.com/images/gallery/3D-Female-Profile-Picture.jpg",
+      "email": "anant.awasthy29@gmail.com",
+      "mobile": 16046576012,
+      "company": "BN",
+      "title": "Andrid",
+      "groupId": 3,
+      "id": 5
+    },
+    {
+      "name": "bb",
+      "photo": "https://imgv3.fotor.com/images/gallery/3D-Female-Profile-Picture.jpg",
+      "email": "bb@g.com",
+      "mobile": 123123123,
+      "company": "BN",
+      "title": "AA",
+      "groupId": 3,
+      "id": 6
+    },
+    {
+      "name": "123123",
+      "photo": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
+      "email": "123@g.com",
+      "mobile": 123,
+      "company": "123",
+      "title": "123",
+      "groupId": 2,
+      "id": 7
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "groupId": 1,
+      "groupName": "Engineering"
+    },
+    {
+      "id": 2,
+      "groupId": 2,
+      "groupName": "Product Management"
+    },
+    {
+      "id": 3,
+      "groupId": 3,
+      "groupName": "Marketing"
+    }
+  ]
+}
